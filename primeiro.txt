@@ -1,3 +1,14 @@
-Primeira linha em Git
-Marcelo
-Mayara
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+int main() {
+float imc, peso, altura;
+cout << "\n Digite seu peso\n";
+cin >> peso
+cout << "Digite sua altura\n";
+cin altura
+imc=peso(altira*altura)
+cout << fixed << setprecision(1);
+cout << "\nÍndice de Massa Corporal= " << imc << endl;
+}
